@@ -42,11 +42,12 @@
 
 ---
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=darkotal-an&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+<div align="center">
+<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=darkotal-an&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
                                                                                                                                        
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkotal-an&layout=compact&theme=dracula&hide_border=true" /> 
+<img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkotal-an&layout=compact&theme=dracula&hide_border=true" /> 
 
-
+</div>
 
 
 
