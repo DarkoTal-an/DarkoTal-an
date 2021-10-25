@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Darko Talan, Full Stack Web Developer
 - 👀 I’m interested in developing tools and solutions in any field. 
 - 🌱 I’m currently learning web development, MERN Stack.
-- 💞️ I’m looking to collaborate on GitHub as well.
+- 💞️ I’m looking to collaborate with fellow developers on GitHub
 - 📫 You can reach me through my Portfolio...https://darkotal-an.github.io/darkos-portfolio/
 
 <!---
