@@ -1,6 +1,6 @@
-## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Darko, a Full Stack Web Developer in making!
+## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Darko, a Full Stack Web Developer!
 > - I’m interested in **developing** tools and solutions that simplify life or just 👀 cool. 
-> - 🌱 I’m currently **learning** web development, MERN Stack.
+> - 🌱 Currently at Digitalwerk GmbH, developing an Open Source Diagnostic Tool for Audi AG
 > - 💞️ I’m looking to **collaborate** with fellow developers, machines, aliens....
 
 ---
